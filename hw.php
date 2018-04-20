@@ -7,10 +7,7 @@
 	];
 
 	foreach ($s as $char)
-	{
 		echo $char;
-	}
 
-	die;
 
 ?>
